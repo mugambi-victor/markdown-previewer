@@ -1,0 +1,47 @@
+.wrapper{
+    background-color: aliceblue;
+   display: flex;
+  justify-content: center; /* Center horizontally */
+  
+}
+.textA{
+    min-width: 500px;
+    background-color: aliceblue;
+    outline: none;
+}
+label{
+    margin: .9rem;
+    font-weight: bold;
+    font-size: larger;
+    margin-bottom: 0;
+    margin-left: 0.1rem;
+}
+.ico{
+    padding-top: .3rem;
+}
+.ico2{
+    padding-top: .3rem; 
+}
+.icon_label{
+    display: flex;
+justify-content: space-between;
+margin-right: .5rem;
+margin-left: .2rem;
+}
+
+.preview-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+   
+}
+.the-previewer{
+    width:700px;
+    background-color: aliceblue;
+    padding: 1rem;
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+}
